@@ -12,3 +12,5 @@ This `Brewfile` automates installing:
 1️⃣ **Install Homebrew** (if you haven’t already):  
    ```sh
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+## 2️⃣ Clone this repo:
